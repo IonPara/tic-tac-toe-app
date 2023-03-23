@@ -43,7 +43,7 @@ To run this game locally, follow these steps:
 
 #### Customization
 
-If you want to customize the look and feel of the game, you can modify the CSS files in the src folder. You can also modify the game logic and behavior by editing the Game.js and Board.js files in the src/components folder.
+If you want to customize the look and feel of the game, you can modify the CSS files in the src folder. You can also modify the game logic and behavior by editing the App.js and Square.js files in the src/components folder.
 
 ## ✉️ <a id="contact">Contact</a>:
 
