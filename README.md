@@ -41,6 +41,9 @@ To run this game locally, follow these steps:
 4. Run the app using **npm start**
 5. Open your web browser and navigate to http://localhost:5173/
 
+![tictac](https://user-images.githubusercontent.com/84988051/227227992-e0bef874-da81-4324-96f7-a65bdd50cd81.png)
+
+
 #### Customization
 
 If you want to customize the look and feel of the game, you can modify the CSS files in the src folder. You can also modify the game logic and behavior by editing the App.js and Square.js files in the src/components folder.
