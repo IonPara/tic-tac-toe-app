@@ -70,7 +70,7 @@ function App() {
     } else if (game.winner === "O") {
       counter.current.O += 1;
     }
-  });
+  }, [game.winner]);
 
   const handleReset = () => {
     counter.current.played += 1;
